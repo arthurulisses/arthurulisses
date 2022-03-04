@@ -2,9 +2,10 @@
 <div align="center">
 <div align="center">
   <a href="https://github.com/arthurulisses">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurulisses&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" align="left"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurulisses&layout=compact&langs_count=7&theme=codeSTACKr"align="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurulisses&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurulisses&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

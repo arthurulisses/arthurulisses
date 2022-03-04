@@ -19,6 +19,4 @@
   <a href="https://www.instagram.com/arthurulisses.l/?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="left"></a>
    <a href="https://api.whatsapp.com/send?phone=88992095877" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="left"></a>
  <br>
-![Snake animation](https://github.com/arthurulisses/arthurulisses/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
